@@ -18,4 +18,12 @@
         android:layout_marginTop="60dp"
         android:text="Button"/>
 
+    <ImageView
+        android:id="@+id/ivButton"
+        android:layout_marginTop="30dp"
+        android:layout_width="80dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@color/citron"/>
+
 </androidx.appcompat.widget.LinearLayoutCompat>
